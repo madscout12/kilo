@@ -1,0 +1,8 @@
+
+.idea/
+Makefile
+bin/
+cmake-build-debug/
+cmake_install.cmake
+kilo.cbp
+
